@@ -15,6 +15,8 @@ This is my non-profit organization and where the majority of my contributions ha
 
 Developed by and maintained by GitHub, super-linter is a compilation of code-analysis tools to help find errors in code in a CI/CD pipeline. I use this tool in many of my repositories, so I make contributions here when able.
 
+**The project is primarily written in Shell/BASH.**
+
 ### [leviem1/plugin-template](https://github.com/leviem1/plugin-template)
 
 This is a repository template that I created to help get setup to write a [PaperMC](https://papermc.io/) Minecraft plugin. I used this project to learn more about [Gradle](https://gradle.org/) and [GitHub Actions](https://github.com/features/actions) as a CI/CD pipeline.

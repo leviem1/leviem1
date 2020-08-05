@@ -7,7 +7,7 @@ I've been writing code since 2014 and have spent every moment since trying to im
 
 ### [sebs-scholarship](https://github.com/sebs-scholarship)
 
-This is my non-profit organization and where the majority of my contributions have been lately. We are a 501(c)(3) charity and all work is volunteer. We have a few [Jekyll](jekyllrb.com) websites that I develop and maintain.
+This is my non-profit organization and where the majority of my contributions have been lately. We are a 501(c)(3) charity and all work is volunteer. We have a few [Jekyll](https://jekyllrb.com) websites that I develop and maintain.
 
 **We build our products primarily in HTML, CSS, JavaScript, and PHP.**
 

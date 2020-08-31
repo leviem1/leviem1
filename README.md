@@ -1,5 +1,12 @@
 # PersonDocs for Levi Muniz 🤖
 
+<span>
+  <img align="top" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=leviem1&show_icons=true" />
+</span>
+<span>
+  <img align="top" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviem1&layout=compact" />
+</span>
+
 ## About ℹ️
 I've been writing code since 2014 and have spent every moment since trying to improve. My favorite languages are Java, Python, and C++, though I'm happy to work in just about any language. Lately, I've spent most of my free-time doing web development for my non-profit. I've also been running game servers and developing mods for fun.
 

@@ -14,19 +14,19 @@ I've been writing code since 2014 and have spent every moment since trying to im
 
 ### [sebs-scholarship](https://github.com/sebs-scholarship)
 
-This is my non-profit organization and where the majority of my contributions have been lately. We are a 501(c)(3) charity and all work is volunteer. We have a few [Jekyll](https://jekyllrb.com) websites that I develop and maintain.
+This is my non-profit organization and where the majority of my contributions have been lately. We are a 501(c)(3) charity and all work is volunteer. We have a few [Jekyll](https://jekyllrb.com) websites that I developed and maintain.
 
 **We build our products primarily in HTML, CSS, JavaScript, and PHP.**
 
 ### [github/super-linter](https://github.com/github/super-linter)
 
-Developed by and maintained by GitHub, super-linter is a compilation of code-analysis tools to help find errors in code in a CI/CD pipeline. I use this tool in many of my repositories, so I make contributions here when able.
+Developed by and maintained by GitHub, super-linter is a compilation of code-analysis tools to help find errors in code in a CI/CD pipeline. I use this tool in many of my repositories, and I try to make contributions here anytime I find an issue.
 
 **The project is primarily written in Shell/BASH.**
 
-### [leviem1/plugin-template](https://github.com/leviem1/plugin-template)
+### [CrimsonWarpedcraft/MobPortals](https://github.com/CrimsonWarpedcraft/MobPortals)
 
-This is a repository template that I created to help get setup to write a [PaperMC](https://papermc.io/) Minecraft plugin. I used this project to learn more about [Gradle](https://gradle.org/) and [GitHub Actions](https://github.com/features/actions) as a CI/CD pipeline.
+A [PaperMC](https://papermc.io/) Minecraft plugin which allows players to teleport or run commands by clicking non-player characters. I used this project to teach myself more about [Gradle](https://gradle.org/) and [GitHub Actions](https://github.com/features/actions) as a CI/CD pipeline. I also used [JUnit 5](https://junit.org/junit5/) in this project to practice more with unit testing.
 
 **This project is written in Java/Groovy.**
 

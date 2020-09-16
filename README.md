@@ -33,10 +33,10 @@ A [PaperMC](https://papermc.io/) Minecraft plugin which allows players to telepo
 ## Interests 💡
 
 Below is a list of a few things that I enjoy learning about or working on. I probably have a few projects in-mind or in-progress for each topic.
-* CI/CD Automation
 * Distributed Computing
 * Programming Languages
 * Operating Systems
+* DevOps
 * Machine Learning
 * Cryptography
 * Education

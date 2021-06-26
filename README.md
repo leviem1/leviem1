@@ -1,5 +1,7 @@
 # PersonDocs for Levi Muniz 🤖
 
+![](Neon 30.gif)
+
 <span>
   <img align="top" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=leviem1&show_icons=true" />
 </span>

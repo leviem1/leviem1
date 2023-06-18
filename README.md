@@ -10,25 +10,41 @@
 </span>
 
 ## About ℹ️
-I've been writing code since 2014 and have spent every moment since trying to improve. My favorite languages are Java, Python, and C++, though I'm happy to work in just about any language. Lately, I've spent most of my free-time doing web development for my non-profit. I've also been running game servers and developing mods for fun.
+I've been writing code since 2014 and have spent every moment since trying to improve. My favorite languages are Python, Java, and Ruby, though I'm happy to work in just about any language. Lately, I've spent most of my free-time doing web development for my non-profit. I also run game servers and develop Minecraft mods for fun.
+
+### Languages 👨🏼‍💻
+* Python
+* Java
+* Ruby
+* JavaScript
+
+### Tools, Technologies, Frameworks 🛠️
+* JUnit Unit Testing Framework
+* AWS (Lambda, S3, API Gateway, Glue, Athena, RDS, ECS, EC2, IAM)
+* Terraform/Pulumi
+* FastAPI, Flask, OpenAPI
+* Docker
+* Linux
+* GitLab CI/CD
+* GitHub Actions
 
 ## Projects 🏗
 
 ### [sebs-scholarship](https://github.com/sebs-scholarship)
 
-This is my non-profit organization and where the majority of my contributions have been lately. We are a 501(c)(3) charity and all work is volunteer. We have a few [Jekyll](https://jekyllrb.com) websites that I developed and maintain.
+This is the account for my non-profit organization and where the majority of my contributions have been lately. We are a 501(c)(3) charity and all work is volunteer. We have a few [Jekyll](https://jekyllrb.com) websites that I developed and maintain, as well as a Ruby plugin to generate OpenGraph images for our blog posts. This project has helped me learn about PHP, Ruby, and web development.
 
-**We build our products primarily in HTML, CSS, JavaScript, and PHP.**
+**Built primarily in HTML, CSS, JavaScript, PHP, and Ruby.**
 
-### [github/super-linter](https://github.com/github/super-linter)
+### [snowy-peak-systems](https://github.com/snowy-peak-systems)
 
-Developed by and maintained by GitHub, super-linter is a compilation of code-analysis tools to help find errors in code in a CI/CD pipeline. I use this tool in many of my repositories, and I try to make contributions here anytime I find an issue.
+This is the account for my sole-proprietor LLC "Snowy Peak Systems". In these repos I host a [Jekyll](https://jekyllrb.com) website deployed using GitHub Pages. This website contains a contact form that uses a backend API that I developed using AWS API Gateway, SES, and a Lambda written in Python. The Lambda and other infrastructure is deployed automatically using [Pulumi](https://www.pulumi.com/) from a [GitHub Actions](https://github.com/features/actions) CI/CD pipeline.
 
-**The project is primarily written in Shell/BASH.**
+**Built primarily in HTML, CSS, JavaScript, and Python.**
 
-### [CrimsonWarpedcraft/MobPortals](https://github.com/CrimsonWarpedcraft/MobPortals)
+### [CrimsonWarpedcraft/plugin-template](https://github.com/CrimsonWarpedcraft/plugin-template)
 
-A [PaperMC](https://papermc.io/) Minecraft plugin which allows players to teleport or run commands by clicking non-player characters. I used this project to teach myself more about [Gradle](https://gradle.org/) and [GitHub Actions](https://github.com/features/actions) as a CI/CD pipeline. I also used [JUnit 5](https://junit.org/junit5/) in this project to practice more with unit testing.
+A [PaperMC](https://papermc.io/) Minecraft plugin template repo which allows other developers to fork the project and create new server mods using the existing project structure. I used this project to teach myself more about [Gradle](https://gradle.org/) and [GitHub Actions](https://github.com/features/actions) as a CI/CD pipeline.
 
 **This project is written in Java/Groovy.**
 
